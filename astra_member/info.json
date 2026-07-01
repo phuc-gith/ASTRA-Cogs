@@ -1,0 +1,10 @@
+{
+  "author": ["Phuc"],
+  "description": "ASTRA member lifecycle management.",
+  "install_msg": "astra_member installed successfully.",
+  "short": "ASTRA member management",
+  "requirements": [],
+  "tags": ["member", "welcome"],
+  "type": "COG",
+  "end_user_data_statement": "This cog does not persistently store user data."
+}
